@@ -1,0 +1,12 @@
++PROG ASE
+HEAD Berechnung
+PAGE UNII 0
+
+// -------------------------------- Loadcases -------------------------------------
+LC 10
+LC 20
+LC 30
+LC 40
+
+END
+
